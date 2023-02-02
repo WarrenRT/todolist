@@ -1,3 +1,3 @@
 # A simple todo list
 
-<img src="./todo.png">
+<img src="./todo.PNG">
